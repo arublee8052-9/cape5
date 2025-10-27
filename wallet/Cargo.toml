@@ -45,7 +45,7 @@ jf-primitives = { features = ["std"], git = "https://github.com/EspressoSystems/
 jf-utils = { features = ["std"], git = "https://github.com/EspressoSystems/jellyfish.git", tag = "0.1.1" }
 key-set = { git = "https://github.com/EspressoSystems/key-set.git", tag = "0.2.3" }
 lazy_static = "1.4.0"
-markdown = "0.3"
+markdown = "1.0"
 net = { git = "https://github.com/EspressoSystems/net.git", tag = "0.2.2" }
 num-traits = "0.2"
 pipe = { version = "0.4" }
