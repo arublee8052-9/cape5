@@ -27,7 +27,7 @@ jf-primitives = { features = ["std"], git = "https://github.com/EspressoSystems/
 key-set = { git = "https://github.com/EspressoSystems/key-set.git", tag = "0.2.3" }
 
 lazy_static = "1.4.0"
-markdown = "0.3"
+markdown = "1.0"
 net = { git = "https://github.com/EspressoSystems/net.git", tag = "0.2.2" }
 rand = "0.8.4"
 rand_chacha = { version = "0.3.1", features = ["serde1"] }
