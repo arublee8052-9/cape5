@@ -35,7 +35,7 @@ ark-poly = "0.3.0"
 ark-serialize = "0.3.0"
 ark-std = "0.3.0"
 async-recursion = "1.0.0"
-async-std = { version = "1.10.0", features = ["unstable", "attributes"] }
+async-std = { version = "1.13.2", features = ["unstable", "attributes"] }
 async-trait = "0.1.51"
 bincode = "1.3.3"
 commit = { git = "https://github.com/EspressoSystems/commit.git", tag = "0.1.0" }
