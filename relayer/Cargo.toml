@@ -19,7 +19,7 @@ path = "src/bin/minimal-relayer.rs"
 doc = false
 
 [dependencies]
-async-std = { version = "1.10.0", features = ["unstable", "attributes", "tokio1"] }
+async-std = { version = "1.13.2", features = ["unstable", "attributes", "tokio1"] }
 bincode = "1.3.3"
 cap-rust-sandbox = { path = "../contracts/rust" }
 ethers = { git = "https://github.com/gakonst/ethers-rs" }

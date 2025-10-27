@@ -26,7 +26,7 @@ doc = false
 
 [dependencies]
 address_book = { path = "../address_book" }
-async-std = { version = "1.9.0", features = ["unstable", "attributes"] }
+async-std = { version = "1.13.2", features = ["unstable", "attributes"] }
 async-trait = "0.1.51"
 base64 = "0.13"
 bincode = "1.3.3"

@@ -20,7 +20,7 @@ path = "src/main.rs"
 doc = false
 
 [dependencies]
-async-std = { version = "1.6.0", features = ["attributes"] }
+async-std = { version = "1.13.2", features = ["attributes"] }
 bincode = "1.3.3"
 dirs = "4.0.0"
 futures = "0.3.21"
